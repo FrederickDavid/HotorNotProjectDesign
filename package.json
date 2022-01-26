@@ -1,0 +1,68 @@
+{
+  "name": "mainreact",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.6.0",
+    "@emotion/styled": "^11.6.0",
+    "@hookform/resolvers": "^2.8.5",
+    "@mui/icons-material": "^5.0.4",
+    "@mui/material": "^5.1.1",
+    "@mui/styled-engine-sc": "^5.0.0",
+    "@reduxjs/toolkit": "^1.6.2",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "antd": "^4.16.13",
+    "axios": "^0.23.0",
+    "firebase": "^8.10.0",
+    "framer-motion": "^4.1.17",
+    "moment": "^2.29.1",
+    "motion": "^10.1.1",
+    "react": "^17.0.2",
+    "react-dnd": "^14.0.4",
+    "react-dnd-html5-backend": "^14.0.2",
+    "react-dom": "^17.0.2",
+    "react-hook-form": "^7.22.5",
+    "react-icons": "^4.2.0",
+    "react-redux": "^7.2.6",
+    "react-router-dom": "^6.0.2",
+    "react-scripts": "4.0.3",
+    "react-scroll": "^1.8.4",
+    "react-scroll-parallax": "^2.4.0",
+    "react-spring": "^9.4.1",
+    "react-transition-group": "^4.4.2",
+    "recharts": "^2.1.6",
+    "redux-thunk": "^2.4.0",
+    "redux-toolkit": "^1.1.2",
+    "sass": "^1.43.4",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.3.1",
+    "web-vitals": "^1.1.2",
+    "yup": "^0.32.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
